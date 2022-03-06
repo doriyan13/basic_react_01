@@ -11,6 +11,7 @@ function App() {
 
   /* Notice that you can add parameters to your custom compoments which you will
       be able to-access with the props object and then get access to the fields/ params that i sent*/
+  /* Notice that you will use State to handle the switch between components */
   return (
     <div>
       <h1>My Todos</h1>
